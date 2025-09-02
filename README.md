@@ -1,7 +1,7 @@
 A simple Currency Converter built using HTML, CSS, and JavaScript that fetches real-time exchange rates from a public API.
 Runs directly in your browser no special build tools or hosting required.
 
-Features:
+Features: 
 Convert between multiple currencies instantly
 Fetches live exchange rates from an API
 Simple and easy-to-use interface
