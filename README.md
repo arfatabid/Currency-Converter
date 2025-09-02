@@ -15,16 +15,16 @@ Currency API – For exchange rate data
 
 Project Files:
 currency-converter/
-│── index.html      # Main HTML file
-│── style.css       # Styling
-│── codes.js       # JavaScript logic
-└── app.js       # API
+index.html      # Main HTML file
+style.css       # Styling
+codes.js       # JavaScript logic
+app.js       # API
 
 How to Run:
-1.Download or clone this repository to your computer:
+1. Download or clone this repository to your computer:
   git clone https://github.com/@arfatabid/currency-converter.git
-Open the folder in VS Code.
-2.Run the project:
+  Open the folder in VS Code.
+2. Run the project:
 Right-click index.html and select "Open with Live Server" (if you have the Live Server extension installed), OR
 Simply double-click index.html to open it in your browser.
-3.Start converting currencies! 🎉
+3. Start converting currencies! 🎉
