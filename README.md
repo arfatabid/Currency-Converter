@@ -9,9 +9,9 @@ Works offline after code run on vs
 
 Technologies Used:
 HTML – Structure of the page
-CSS – Styling and layout
-JavaScript – Functionality and API integration
-Currency API – For exchange rate data
+, CSS – Styling and layout
+, JavaScript – Functionality and API integration
+, Currency API – For exchange rate data
 
 Project Files:
 currency-converter/
