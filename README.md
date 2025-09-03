@@ -1,26 +1,27 @@
+# Currency Converter
 A simple Currency Converter built using HTML, CSS, and JavaScript that fetches real-time exchange rates from a public API.
 Runs directly in your browser no special build tools or hosting required.
 
-Features: 
+# Features 
 Convert between multiple currencies instantly
 Fetches live exchange rates from an API
 Simple and easy-to-use interface
 Works offline after code run on vs
 
-Technologies Used:
+# Technologies Used
 HTML – Structure of the page
 , CSS – Styling and layout
 , JavaScript – Functionality and API integration
 , Currency API – For exchange rate data
 
-Project Files:
+# Project Files
 currency-converter/
 index.html      # Main HTML file
 style.css       # Styling
 codes.js       # JavaScript logic
 app.js       # API
 
-How to Run:
+# How to Run
 1. Download or clone this repository to your computer:
   git clone https://github.com/@arfatabid/currency-converter.git
   Open the folder in VS Code.
